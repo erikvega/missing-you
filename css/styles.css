@@ -1,0 +1,44 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+a{
+    color: inherit;
+}
+
+body{
+    font-family: 'Gloria Hallelujah', cursive;
+    background-color: antiquewhite;
+    color: #47284b;
+    width: 100%;
+    text-align: center;
+}
+
+footer{
+    padding-top: 1%;
+}
+
+img{
+    width: 30%;
+    height: auto;
+}
+
+.lastSection{
+    padding-top: 4%
+}
+
+.lastImg{
+    padding-top: 4%;
+    width: 50%;
+}
+
+.section{
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+.title{
+    padding-top: 5%;
+    font-size: 4em;
+}
